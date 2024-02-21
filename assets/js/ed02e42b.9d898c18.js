@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcharacterstudio_docs=self.webpackChunkcharacterstudio_docs||[]).push([[3081],{5979:s=>{s.exports=JSON.parse('{"label":"greetings","permalink":"/characterstudio-docs/blog/tags/greetings","allTagsPath":"/characterstudio-docs/blog/tags","count":1,"unlisted":false}')}}]);

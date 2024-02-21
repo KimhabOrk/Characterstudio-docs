@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcharacterstudio_docs=self.webpackChunkcharacterstudio_docs||[]).push([[1906],{9570:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/characterstudio-docs/blog/tags/docusaurus","allTagsPath":"/characterstudio-docs/blog/tags","count":4,"unlisted":false}')}}]);
